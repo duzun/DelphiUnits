@@ -1,6 +1,7 @@
 {****************************************************
  * Author  : Dumitru Uzun
  * Web     : http://duzun.me
+ * Repo    : https://github.com/duzun/DelphiUnits
  * Created : 03.02.2010
  *
  *  O extensie a clasei TStringList.

@@ -1,3 +1,12 @@
+{****************************************************
+ * 
+ *
+ * Author  : Dumitru Uzun
+ * Web     : http://duzun.me
+ * Repo    : https://github.com/duzun/DelphiUnits
+ * Version : 02.06.2009
+ ****************************************************}
+
 {$F+}
 {$N+}
 Unit UFig;

@@ -1,3 +1,12 @@
+{****************************************************
+ * 
+ *
+ * Author  : Dumitru Uzun
+ * Web     : http://duzun.me
+ * Repo    : https://github.com/duzun/DelphiUnits
+ * Version : 17.01.2009
+ ****************************************************}
+
 unit UBaze;
 
 interface

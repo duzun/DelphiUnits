@@ -1,3 +1,12 @@
+{****************************************************
+ * 
+ *
+ * Author  : Dumitru Uzun
+ * Web     : http://duzun.me
+ * Repo    : https://github.com/duzun/DelphiUnits
+ * Version : 12.07.2010
+ ****************************************************}
+
 Unit UFrac2D;
 
 interface

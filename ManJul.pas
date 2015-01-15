@@ -1,3 +1,12 @@
+{****************************************************
+ * 
+ *
+ * Author  : Dumitru Uzun
+ * Web     : http://duzun.me
+ * Repo    : https://github.com/duzun/DelphiUnits
+ * Version : 06.06.2009
+ ****************************************************}
+
 Unit ManJul;
 
 interface

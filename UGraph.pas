@@ -1,6 +1,7 @@
 {****************************************************
  * Author  : Dumitru Uzun
  * Web     : http://duzun.me
+ * Repo    : https://github.com/duzun/DelphiUnits
  * Created : 29.01.2009
  *
  *  Modul pentru prelucratea Bitmap-urilor la nivel de pixel.

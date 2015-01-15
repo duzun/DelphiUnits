@@ -1,7 +1,13 @@
-{********************************
-   Autor: Dumitru Uzun
-   Data: 25.05.2009
- ********************************}
+{****************************************************
+ * 
+ * Mimic some Turbo Pascal CTRs' procedures in Delphi.
+ *
+ * Author  : Dumitru Uzun
+ * Web     : http://duzun.me
+ * Repo    : https://github.com/duzun/DelphiUnits
+ * Version : 25.05.2009
+ ****************************************************}
+
 unit CRT;
 
 interface

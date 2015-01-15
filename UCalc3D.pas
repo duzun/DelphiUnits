@@ -1,3 +1,12 @@
+{****************************************************
+ * 
+ *
+ * Author  : Dumitru Uzun
+ * Web     : http://duzun.me
+ * Repo    : https://github.com/duzun/DelphiUnits
+ * Version : 01.06.2009
+ ****************************************************}
+
 unit UCalc3D;
 
 interface

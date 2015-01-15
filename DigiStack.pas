@@ -1,6 +1,7 @@
 {****************************************************
  * Author  : Dumitru Uzun
  * Web     : http://duzun.me
+ * Repo    : https://github.com/duzun/DelphiUnits
  * Created : 25.12.2009
  * 
  *  TDigiStack este un container pentru componente de tip TDigiBox.
