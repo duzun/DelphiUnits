@@ -1,0 +1,40 @@
+package DUzuns;
+
+{$R *.res}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO ON}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS ON}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO ON}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DESCRIPTION 'DUzun''s Copmponents'}
+{$IMPLICITBUILD OFF}
+
+requires
+  rtl,
+  vcl;
+
+contains
+  TaskBarMenu in 'Components\TaskBarMenu.pas',
+  DigiStack in 'DigiStack.pas',
+  DigiBox in 'DigiBox.pas',
+  Interfata in 'Interfata.pas',
+  StrStack in 'StrStack.pas',
+  TrayIcon in 'TrayIcon.pas';
+
+end.
