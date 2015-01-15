@@ -1,6 +1,6 @@
 {****************************************************
- * Author  : Dumitru Uzun (DUzun)
- * Web     : http://duzun.teologie.net
+ * Author  : Dumitru Uzun
+ * Web     : http://duzun.me
  * Created : 02.05.2009
  * History:
  *  

@@ -1,6 +1,6 @@
 {****************************************************
- * Author  : Dumitru Uzun (DUzun)
- * Web     : http://duzun.teologie.net
+ * Author  : Dumitru Uzun
+ * Web     : http://duzun.me
  * Created : 25.12.2009
  * 
  *  TDigiStack este un container pentru componente de tip TDigiBox.

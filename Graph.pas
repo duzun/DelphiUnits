@@ -1,6 +1,6 @@
 {****************************************************
- * Author  : Dumitru Uzun (DUzun)
- * Web     : http://duzun.teologie.net
+ * Author  : Dumitru Uzun
+ * Web     : http://duzun.me
  * Created : 03.05.2009
  *
  *  Acest modul reprezinta o interfata de subprograme

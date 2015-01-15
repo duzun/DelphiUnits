@@ -1,5 +1,5 @@
 {********************************
-   Autor: Dumitru Uzun (DUzun)
+   Autor: Dumitru Uzun
    Data: 25.05.2009
  ********************************}
 unit CRT;
