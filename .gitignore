@@ -61,3 +61,6 @@ __history/
 
 *.log
 bak_log.txt
+
+# Some components to play with - ignore
+Components/
